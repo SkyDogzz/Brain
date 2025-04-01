@@ -22,6 +22,3 @@
 
 - **Lisibilité du code :**  
   Un code bien structuré et commenté est essentiel pour faciliter la compréhension par vos pairs.
-
-
-commit
