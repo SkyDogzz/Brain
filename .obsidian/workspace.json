@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "2b950e38ac0bcea7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f359ea5cb9f3c82e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d10af41aa9fe3215",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPP/Consignes et Bonnes Pratiques 📏✅.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Consignes et Bonnes Pratiques 📏✅"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "149724c7cfb58604",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5a18c94539e5c2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dd378092e6cc2c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "537dfb0edfa68cd9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3eb612079bfdb3a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 588.5
+  },
+  "right": {
+    "id": "57a6afddc0cc5207",
+    "type": "split",
+    "children": [
+      {
+        "id": "d46bbfd109a4e557",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc5d7f13b5c3c5a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CPP/Guide Complet en C++98 et Programmation Orientée Objet 🎓💻.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Guide Complet en C++98 et Programmation Orientée Objet 🎓💻"
+            }
+          },
+          {
+            "id": "402d64dc4cb34a0f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CPP/Guide Complet en C++98 et Programmation Orientée Objet 🎓💻.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Guide Complet en C++98 et Programmation Orientée Objet 🎓💻"
+            }
+          },
+          {
+            "id": "5508ff18465425e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e8e84fe09c85b4bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CPP/Guide Complet en C++98 et Programmation Orientée Objet 🎓💻.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Guide Complet en C++98 et Programmation Orientée Objet 🎓💻"
+            }
+          },
+          {
+            "id": "4eab40d8875d0d6a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "custom-sort:Toggle custom sorting": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d10af41aa9fe3215",
+  "lastOpenFiles": [
+    "CPP/Guide Complet en C++98 et Programmation Orientée Objet 🎓💻.md",
+    "CPP/Chapitre V - Polymorphisme par Sous-Typage, Classes Abstraites et Interfaces 🎭🔧.md",
+    "CPP/Chapitre I - Bases du C++ 💡🚀.md",
+    "CPP/Conclusion 🎉🌟.md",
+    "CPP/Consignes et Bonnes Pratiques 📏✅.md",
+    "CPP/Chapitre IV - Héritage  👨‍👩‍👧‍👦.md",
+    "CPP/Chapitre III - Polymorphisme Ad-Hoc et Surcharge d’Opérateurs 🏆💡.md",
+    "CPP/Chapitre II - Allocation Mémoire, Pointeurs sur Membres et Switch Statements 🧠🔧.md",
+    "Welcome.md",
+    "Untitled 1",
+    "CPP"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1743494749403,
+      "path": "CPP/Guide Complet en C++98 et Programmation Orientée Objet 🎓💻.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1743495076512,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1743495076512,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1743495076512,
+              "path": "CPP/Guide Complet en C++98 et Programmation Orientée Objet 🎓💻.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "\\\\CPP"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}
