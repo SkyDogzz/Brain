@@ -5,7 +5,7 @@ UseTab: Always
 IndentWidth: 4
 TabWidth: 4
 
-AccessModifierOffset: 0
+AccessModifierOffset: -4
 IndentAccessModifiers: false
 
 AlignConsecutiveDeclarations: true
